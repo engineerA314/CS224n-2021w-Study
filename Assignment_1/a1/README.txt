@@ -5,7 +5,7 @@ We'll be using Python throughout the course. If you've got a good Python setup a
 After you have installed conda, close any open terminals you might have. Then open a new terminal and run the following command:
 
 # 1. Create an environment with dependencies specified in env.yml:
-    
+
     conda env create -f env.yml
 
 # 2. Activate the new environment:
